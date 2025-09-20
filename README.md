@@ -1,7 +1,3 @@
-Of course. Here is a comprehensive and professional README template for your GitHub portfolio project, incorporating all the steps, decisions, and analyses we've discussed.
-
----
-
 # E-Commerce Data Analysis & Customer Segmentation Project
 
 ## 📖 Project Overview
@@ -16,9 +12,9 @@ This project conducts a deep-dive analysis of a transnational e-commerce dataset
 
 ## 📊 Dashboard Preview
 
-[![Power BI Dashboard]([Link to a screenshot of your dashboard])]([Link to your live dashboard if hosted])
+[![Power BI Dashboard](https://github.com/AhmedElatwy/E-Commerce-Analysis/blob/be832f028003f3e61e8668d78b0638679e368a30/Visual/dashboard%201.png)
 
-*🔗 [Link to Interactive Power BI Dashboard]([Insert Your Link Here])*
+*🔗 [Link to Interactive Power BI Dashboard]((https://app.powerbi.com/reportEmbed?reportId=3d257d11-3cdd-4c23-8105-0e305a89c2be&autoAuth=true&ctid=f349c2fd-fc94-4893-abe4-cfbe7ed52842)])*
 
 ## 🧰 Tools & Technologies
 
@@ -65,7 +61,7 @@ The raw data required extensive cleaning to ensure analytical integrity. A nuanc
 
 **Final Datasets:**
 - **`business_df`:** The complete dataset for accurate financial calculations.
-- **`analysis_df`:** The cleaned subset for analyzing customer and product behavior.
+- **`customer_df`:** The cleaned subset for analyzing customer and product behavior.
 
 ## 🧮 Analysis & Methodology
 
@@ -100,7 +96,7 @@ Analyzed customer retention rates over time.
 - **Clear Shopping Patterns:** Sales peak on **Thursdays** and during **mid-day hours (10 AM - 3 PM)**, which generates nearly **80% of daily revenue**.
 
 ### Product & Sales Analysis
-- **Top Product:** "REGENCY CAKESTAND 3 TIER" is the top revenue-generating product ($142K).
+- **Top Product:** "REGENCY CAKESTAND 3 TIER" is the top revenue-generating product ($116).
 - **Market Concentration:** The UK drives over 80% of all revenue. The Netherlands shows a higher value per order than Germany, suggesting an untapped opportunity.
 
 *(For a full list of insights, refer to the [Executive Summary]([Link to your Executive Summary PDF]))*
@@ -114,31 +110,9 @@ The analysis was synthesized into a strategic document for decision-makers. Key 
 3.  **Optimize Marketing Spend:** Reallocate ad budget to target the Netherlands based on its higher value per order and focus campaigns on high-conversion days (Thu) and times (10 AM - 3 PM).
 4.  **Improve New Customer Onboarding:** Address the declining retention trend with a structured nurture program for new signups.
 
-**🔗 [Download the Full Executive Summary PDF]([Insert Your Link Here])**
+**🔗 [Download the Full Executive Summary PDF]([[Excutive Summary.pdf](https://github.com/AhmedElatwy/E-Commerce-Analysis/blob/f05ce116202147f0e8b7037291c201c1ea2b6f4c/Excutive%20Summary.pdf)])**
 
-## 📂 Project Structure
 
-```
-E-Commerce-Analysis/
-│
-├── Data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-│
-├── Notebooks/
-│   ├── 01_Data_Cleaning.ipynb
-│   ├── 02_EDA.ipynb
-│   └── 03_RFM_Cohort_Analysis.ipynb
-│
-├── Reports/
-│   ├── Executive_Summary.pdf
-│   └── Key_Insights.pdf
-│
-├── Dashboard/
-│   └── Ecommerce_Dashboard.pbix
-│
-└── README.md
-```
 
 ## 👨‍💻 Author
 
