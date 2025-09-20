@@ -26,9 +26,9 @@ This project conducts a deep-dive analysis of a transnational e-commerce dataset
 
 ## 📈 Dataset
 
-- **Source:** [UCI Machine Learning Repository / Kaggle - Online Retail II Dataset]
+- **Source:** [Kaggle - E-Commerce Dataset]
 - **Description:** A transnational data set which contains all the transactions occurring between [Date Range, e.g., 01/12/2010 and 09/12/2011].
-- **Size:** [Number] of transactions, [Number] of customers, [Number] of products.
+- **Size:** 541910 of transactions, 4260 Unique customer, 3600 Unique products.
 - **Original Columns:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country.
 
 ## 🔧 Data Cleaning & Preprocessing
