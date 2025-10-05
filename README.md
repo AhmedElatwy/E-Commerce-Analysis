@@ -20,7 +20,6 @@ This project conducts a deep-dive analysis of a transnational e-commerce dataset
 
 - **Programming Language:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 - **Data Visualization:** Power BI, Tableau
-- **Database:** SQL (for data wrangling)
 - **Version Control:** Git, GitHub
 - **Methodologies:** RFM Analysis, Cohort Analysis, Time Series Analysis, Data Cleaning & Wrangling
 
